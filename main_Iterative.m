@@ -4,7 +4,7 @@ function main_Iterative(h,epsilon)
 %     Date: 2022-07-28
 %     Script that calculates the solution to the problem the steady-state 
 %     Fokker-Planck equation the method of simple iterations.
-%     To be runned in HPC.
+%     To be run in HPC.
 %     Inputs from PBS file:
 %         h: grid spacing
 %         epsilon: noise intensity

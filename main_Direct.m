@@ -4,7 +4,7 @@ function main_Direct(h,epsilon)
 %     Date: 2022-07-25
 %     Script that calculates the solution to the problem the steady-state 
 %     Fokker-Planck equation with the direct method for different noise
-%     levels. It uses the method of lsqminnorm. To be runned in HPC.
+%     levels. It uses the method of lsqminnorm. To be run in HPC.
 %     Inputs from PBS file:
 %         h: grid spacing
 %         epsilon: noise intensity
